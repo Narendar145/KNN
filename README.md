@@ -1,2 +1,1 @@
-# KNN
-KNN
+# K Nearest Neigbour
